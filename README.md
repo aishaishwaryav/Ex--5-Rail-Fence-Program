@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/83800bc4-b2ac-4e01-8d9e-96e65de9be7c)# Ex--5-Rail-Fence-Program
-
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
 # AIM:
